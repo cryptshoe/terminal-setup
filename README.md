@@ -33,14 +33,14 @@ It also safely backs up your existing terminal configuration files before making
 1. **Download the script**
 
 ~~~
-wget https://your-repo-url/kali_terminal_setup.py
-chmod +x kali_terminal_setup.py
+wget https://github.com/cryptshoe/terminal-setup.git
+chmod +x terminal_setup.py
 ~~~
 
 2. **Run the script**
 
 ~~~
-python3 kali_terminal_setup.py
+python3 terminal_setup.py
 ~~~
 
 3. **Choose an option:**
